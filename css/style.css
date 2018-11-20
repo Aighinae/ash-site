@@ -1,0 +1,161 @@
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+header {
+  background-color: rebeccapurple;
+  padding: 25px; 
+}
+.logo {
+  float: left;
+  width: 20%
+} 
+h3 {
+	color: rebeccapurple;
+	margin-left: 120px; 
+	margin-bottom: 0px;
+	background-color: lightcyan;
+	padding: 5.5px;
+	width: 14.5%;
+}
+.l5 {
+	float: right;
+	background-color: lightblue;
+	padding: 10px;
+}
+.l6 {
+	background-color: lightblue;
+	padding: 10px;
+	float: right;
+}
+.squirtle {
+	width: 100px;
+	background-color:lightcyan;
+	padding:10px;
+}
+nav {
+  float: right;
+  width: 80%;
+  text-align: right;	
+}
+ol, li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  
+}
+a {
+  display: inline-block;
+  padding: 20px 20px;
+  color: palevioletred;
+  margin: 9px; 
+}
+
+
+.content {
+  padding: 20px;
+  background-color: midnightblue;
+}
+.left-column {
+  float: left;
+  width: 10%;
+	width: 12%;
+	padding-left: 0px;
+	padding-top:20px;
+	padding-bottom: 10px;
+	text-align: center;
+	margin-bottom: 500%;
+}
+.aaron1 {
+	width: 95px;
+}
+.andy1 {
+	width: 95px;
+}
+.twitter {
+	width: 95px;
+}
+.lemonster {
+	width: 95px;
+}
+ul, li {
+  display: block;
+  margin-left: -23px;
+  padding: 0;
+  text-align: center;
+ 
+}
+a {
+  margin-bottom: 10px;
+  padding: 20px;
+  text-decoration: none;
+}
+
+.center-column {
+  float: left;
+  width: 40%;
+  margin-left: 7%;
+  background-color: lightcyan;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 5px;
+  
+}
+.right-column {
+  float: right;
+  width: 20%;
+  padding: 40px;
+  margin-right: 8%;
+  margin-top: 5%;
+  
+}
+.christmas {
+	width: 300px;
+	padding-top: 20px;
+	background-color: lightblue;
+	padding: 5px;
+}
+
+.image {
+  width: 146%;
+  height: 103px;
+  background-color: rebeccapurple;
+  
+}
+
+h1 {
+  margin: 0;
+  color: rebeccapurple;
+}
+
+h2 {
+ margin-left: 65%;
+ color: lightcyan;
+ text-align: center; 
+}
+
+.l1 {
+ background-color: lightblue;
+ padding: 10px; 
+	
+}
+
+.l2 {
+ background-color: lightblue;
+ padding: 10px;
+	
+}
+
+.l3 {
+ background-color: lightblue; 
+ padding: 10px;
+	
+}
+.l4 {
+ background-color: lightblue; 
+ padding: 10px;
+	
+}
+
+
